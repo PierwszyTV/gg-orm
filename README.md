@@ -9,4 +9,4 @@
 7. Enjoy you app at '/tickets' route! :)
 
 
-PS. Closure function is in /src/Service/TicketService.php
+PS. Closure function is in /src/Service/TicketsService.php
